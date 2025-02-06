@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(red,blue,green);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+nav{
+    background-color: azure;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li{
+    list-style: none;
+ }
+
+ h1{
+    font-size: 150px;
+    font-weight: bold;
+    text-align: center;
+ }
+p{
+color: aliceblue;
+font-size: 25px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
